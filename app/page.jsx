@@ -8,7 +8,7 @@ const Home = () => {
             Discover & Share
             <br className='max-md:hidden'/>
             <span className='orange_gradient'>
-                AI-Powered Prompts
+                {` `}AI-Powered Prompts
             </span>
         </h1>
         <p className="desc text-center">
